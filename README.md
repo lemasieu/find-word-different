@@ -4,7 +4,7 @@ A simple, interactive web tool that compares two pieces of text and highlights e
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://www.xn--msiu-goa8b.vn/github/find-word-different](https://www.xn--msiu-goa8b.vn/github/find-word-different)
+Check out the live demo: [https://www.sieu.io.vn/github/find-word-different](https://www.sieu.io.vn/github/find-word-different)
 
 ## ✨ Features
 
